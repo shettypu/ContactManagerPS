@@ -48,6 +48,6 @@ public class ContactManager {
         System.arraycopy(contactList, 0, newContactList, 0, contactList.length);
         newContactList[contactList.length] = newContact;
         contactList = newContactList;
-    }//This is the new comment line I added
+    }
 }
 
