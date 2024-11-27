@@ -14,7 +14,7 @@ public class ContactManager {
     public ContactManager() {
         contactList = new Contact[0];
     }
-
+    //change made directly in github
     /*
      Locate a Contact record that matches the email address provided.
      Returns the Contact record if found, null if not found.
