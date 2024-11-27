@@ -17,6 +17,8 @@ import static org.junit.jupiter.api.Assertions.*;
  * @author shett
  */
 //helloooo
+
+//this is a comment made on the Friend branch
 public class ContactManagerTest {
     private ContactManager contactManager;
     private Contact contact1;
